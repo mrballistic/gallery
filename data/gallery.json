@@ -1,0 +1,130 @@
+{
+  "images": [
+    {
+      "id": "img-001",
+      "filename": "mountain-sunrise.jpg",
+      "path": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+      "category": "nature",
+      "dateAdded": "2025-10-15",
+      "description": "Beautiful sunrise over mountain peaks with golden light illuminating the landscape",
+      "tags": ["sunrise", "mountains", "landscape", "golden hour"]
+    },
+    {
+      "id": "img-002",
+      "filename": "city-skyline-night.jpg",
+      "path": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop",
+      "category": "urban",
+      "dateAdded": "2025-10-20",
+      "description": "Stunning city skyline at night with illuminated skyscrapers reflecting in the water",
+      "tags": ["city", "night", "skyline", "lights", "reflection"]
+    },
+    {
+      "id": "img-003",
+      "filename": "ocean-waves.jpg",
+      "path": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=400&h=300&fit=crop",
+      "category": "nature",
+      "dateAdded": "2025-10-18",
+      "description": "Powerful ocean waves crashing against the shore during sunset",
+      "tags": ["ocean", "waves", "sunset", "seascape", "power"]
+    },
+    {
+      "id": "img-004",
+      "filename": "portrait-woman.jpg",
+      "path": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=300&fit=crop",
+      "category": "portrait",
+      "dateAdded": "2025-10-22",
+      "description": "Professional portrait photography with natural lighting and elegant composition",
+      "tags": ["portrait", "woman", "professional", "natural light"]
+    },
+    {
+      "id": "img-005",
+      "filename": "forest-path.jpg",
+      "path": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop",
+      "category": "nature",
+      "dateAdded": "2025-10-16",
+      "description": "Mysterious forest path winding through tall trees with dappled sunlight",
+      "tags": ["forest", "path", "trees", "mystery", "sunlight"]
+    },
+    {
+      "id": "img-006",
+      "filename": "abstract-colors.jpg",
+      "path": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400&h=300&fit=crop",
+      "category": "abstract",
+      "dateAdded": "2025-10-25",
+      "description": "Vibrant abstract composition with flowing colors and dynamic movement",
+      "tags": ["abstract", "colors", "vibrant", "art", "movement"]
+    },
+    {
+      "id": "img-007",
+      "filename": "architecture-modern.jpg",
+      "path": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?w=400&h=300&fit=crop",
+      "category": "urban",
+      "dateAdded": "2025-10-19",
+      "description": "Modern architectural design with clean lines and geometric patterns",
+      "tags": ["architecture", "modern", "geometric", "design", "building"]
+    },
+    {
+      "id": "img-008",
+      "filename": "desert-landscape.jpg",
+      "path": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=400&h=300&fit=crop",
+      "category": "nature",
+      "dateAdded": "2025-10-17",
+      "description": "Vast desert landscape with rolling sand dunes under clear blue sky",
+      "tags": ["desert", "sand dunes", "landscape", "blue sky", "vast"]
+    },
+    {
+      "id": "img-009",
+      "filename": "street-photography.jpg",
+      "path": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop",
+      "category": "urban",
+      "dateAdded": "2025-10-21",
+      "description": "Candid street photography capturing urban life and human moments",
+      "tags": ["street", "urban", "candid", "people", "life"]
+    },
+    {
+      "id": "img-010",
+      "filename": "flowers-macro.jpg",
+      "path": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=400&h=300&fit=crop",
+      "category": "nature",
+      "dateAdded": "2025-10-23",
+      "description": "Delicate flower petals captured in stunning macro detail with soft focus",
+      "tags": ["flowers", "macro", "petals", "detail", "soft focus"]
+    },
+    {
+      "id": "img-011",
+      "filename": "minimalist-composition.jpg",
+      "path": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+      "category": "abstract",
+      "dateAdded": "2025-10-24",
+      "description": "Clean minimalist composition emphasizing negative space and simplicity",
+      "tags": ["minimalist", "clean", "simple", "negative space", "composition"]
+    },
+    {
+      "id": "img-012",
+      "filename": "wildlife-bird.jpg",
+      "path": "https://images.unsplash.com/photo-1444927714506-8492d94b5ba0?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1444927714506-8492d94b5ba0?w=400&h=300&fit=crop",
+      "category": "nature",
+      "dateAdded": "2025-10-26",
+      "description": "Majestic bird in flight captured with perfect timing and sharp detail",
+      "tags": ["wildlife", "bird", "flight", "majestic", "timing"]
+    }
+  ],
+  "categories": [
+    "nature",
+    "urban", 
+    "portrait",
+    "abstract"
+  ]
+}
